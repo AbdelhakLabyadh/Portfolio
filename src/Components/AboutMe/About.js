@@ -14,20 +14,19 @@ const About = () => {
             <h1 className='about__heading'>About Me</h1>
             <div className='about__meta'>
               <p className='about__text p__color'>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled.
+                I am a Software Engineer. <br />I have made a retraining in Full
+                Stack JS Web Developer using ReactJS Library.
               </p>
               <p className='about__text p__color'>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's standard dummy
-                text ever since the 1500s, when an unknown printer took a galley
-                of type and scrambled.
+                Joung, passionate and highly motivated for new challenges that
+                can be benefic for me and for the team i will be with. <br />I
+                am responsible and open to any kind of adventures. <br /> I have
+                a team spirit.
               </p>
               <p className='about__text p__color'>
-                Lorem Ipsum is simply dummy text of the printing and typesetting
-                industry. Lorem Ipsum has been the industry's.
+                I am sure that the internships I made and my cursus will be very
+                useful. <br /> The made me learn how to make decisions in the
+                good time.
               </p>
               <div className='about__button d__flex align__items__center'>
                 <a href='Abdelhak.pdf' download='Abdelhak Labyadh.pdf'>
