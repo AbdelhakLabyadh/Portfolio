@@ -25,7 +25,7 @@ const About = () => {
               </p>
               <p className='about__text p__color'>
                 I am sure that the internships I made and my cursus will be very
-                useful. <br /> The made me learn how to make decisions in the
+                useful. <br /> They made me learn how to make decisions in the
                 good time.
               </p>
               <div className='about__button d__flex align__items__center'>
