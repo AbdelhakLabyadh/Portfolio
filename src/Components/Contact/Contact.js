@@ -107,14 +107,14 @@ const Contact = () => {
             <ul className='contact-list'>
               <li className='list-item'>
                 <i className='fa fa-map-marker fa-2x'>
-                  <span className='contact-text place'>Gabes, Tunisia</span>
+                  <span className='contact-text place'>Lisbon, Portugal</span>
                 </i>
               </li>
               <li className='list-item'>
                 <i className='fa fa-phone fa-2x'>
                   <span className='contact-text phone'>
-                    <a href='tel:0021627328288' title='Give me a call'>
-                      +216 27 32 82 88
+                    <a href='tel:00315910686127' title='Give me a call'>
+                      +315 910 686 127
                     </a>
                   </span>
                 </i>
@@ -140,7 +140,7 @@ const Contact = () => {
                 <i className='fa fa-codepen' aria-hidden='true' />
               </a>
               <a
-                href='https://www.linkedin.com/in/abdelhak-labyadh-781547134'
+                href='https://www.linkedin.com/in/abdelhaklabyadh'
                 target='_blank'>
                 <LinkedInIcon />
               </a>

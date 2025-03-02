@@ -8,23 +8,24 @@ const About = () => {
       <div className='container'>
         <div className='row'>
           <div className='col__2'>
-            <img src={AboutImg} className='about__img' alt='' />
+            <img src={AboutImg} className='about__img' alt='Abdelhak_Photo' />
           </div>
           <div className='col__2 contact__details'>
             <h1 className='about__heading'>About Me</h1>
             <div className='about__meta'>
               <p className='about__text p__color'>
-                I am a Software Engineer. <br />I have made a retraining in Full
+                I am a Junior Front-End developer. <br />I have an experience as 
+                a front-end deloper and also have made a training in Full
                 Stack JS Web Developer using ReactJS Library.
               </p>
               <p className='about__text p__color'>
-                Joung, passionate and highly motivated for new challenges that
-                can be benefic for me and for the team i will be with. <br />I
-                am responsible and open to any kind of adventures. <br /> I have
+                Young, passionate and highly motivated for new challenges that
+                can be benefic for me and for the team i will be working with. <br />I
+                am responsible and open to new technologies and challenges. <br /> I have
                 a team spirit.
               </p>
               <p className='about__text p__color'>
-                I am sure that the internships I made and my cursus will be very
+                I am sure that the experience I have will be very
                 useful. <br /> They made me learn how to make decisions in the
                 good time.
               </p>

@@ -30,7 +30,7 @@ export default function CustomizedTimeline() {
           </TimelineSeparator>
           <TimelineContent sx={{ py: '12px', px: 2 }}>
             <Typography className='specialite' variant='h6' component='span'>
-              High School Degree
+              High School Diploma
             </Typography>
             <Typography className='school'>
               Argoub Secondary School, Gabes
@@ -54,8 +54,7 @@ export default function CustomizedTimeline() {
           </TimelineSeparator>
           <TimelineContent sx={{ py: '12px', px: 2 }}>
             <Typography className='specialite' variant='h6' component='span'>
-              The National Diploma <br /> of Fundamental License <br /> in
-              Computer Science
+            Bachelor’s degree in Computer Science
             </Typography>
             <Typography className='school'>
               Higher Institute of Computer Science and Mathematics <br /> of
@@ -70,7 +69,7 @@ export default function CustomizedTimeline() {
             sx={{ m: 'auto 0' }}
             align='right'
             variant='body2'>
-            2017 -- 2021
+            2017 -- 2020
           </TimelineOppositeContent>
           <TimelineSeparator>
             <TimelineConnector />
@@ -82,8 +81,7 @@ export default function CustomizedTimeline() {
 
           <TimelineContent sx={{ py: '12px', px: 2 }}>
             <Typography className='specialite' variant='h6' component='span'>
-              The National Diploma <br /> of Master Degree <br /> in Computer
-              Science
+            Master’s degree in software engineering
             </Typography>
             <Typography className='school'>
               Higher Institute of Computer Science of Ariana, Tunisia

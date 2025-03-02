@@ -5,7 +5,8 @@
   margin-top: 40px;
 }
 img.about__img {
-  border-radius: 10px;
+  border-radius: 8px;
+  padding-top: 100px;
   width: 100%;
 }
 h1.about__heading {

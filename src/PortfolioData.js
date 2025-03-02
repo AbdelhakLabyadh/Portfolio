@@ -1,14 +1,14 @@
 import React from 'react';
-import BackEnd from './img/back-end.png';
 import FrontEnd from './img/front-end.png';
 import Github from './img/github.png';
 import Database from './img/database.png';
 
+// eslint-disable-next-line import/no-anonymous-default-export
 export default {
   name: 'Labyadh Abdelhak',
-  address: 'Ayoun Zerkine 2, Mareth 6015, Gabes',
-  phone: '+216 27 32 82 88',
-  job: 'Full Stack JS developer',
+  address: 'Calçada da Picheleira 66  3 FTE - 1900-373 LISBON',
+  phone: '+315 937 984 716',
+  job: 'Frontend developer',
   email: 'abdelhak.labyadh@outlook.com',
   skype: 'labyadhabdelhak94',
 
@@ -22,18 +22,15 @@ export default {
         />
       ),
       title: 'FRONT-END',
-      description: ['ReactJS', 'JavaScript', 'ES6', 'Bootstrap', 'Material UI'],
-    },
-    {
-      image: (
-        <img
-          src={BackEnd}
-          alt='Back End'
-          style={{ width: '50px', height: '50px' }}
-        />
-      ),
-      title: 'BACK-END',
-      description: ['NodeJS', 'Express'],
+      description: [
+        'ReactJS',
+        'React Native',
+        'TypeScript',
+        'JavaScript',
+        'ES6',
+        'Tailwind CSS',
+       
+      ],
     },
     {
       image: (

@@ -13,8 +13,9 @@ const Profile = () => {
       backSpeed: 60,
       strings: [
         'Enthusiastic Developer  🔴',
-        'Junior Full Stack Developer 💻',
-        'MERN Stack Developer 😎',
+        'Junior Front End Developer 💻',
+        'ReactJS, React Native Developer 😎',
+        'Learning Angular 💻',
       ],
     });
   }, []);

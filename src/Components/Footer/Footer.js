@@ -6,7 +6,7 @@ const Footer = () => {
     <>
       <div className='footer pz-10'>
         <label>LABYADH Abdelhak</label>
-        <span className='copyright'>Copyright © 2021 All Rights Reserved.</span>
+        <span className='copyright'>Copyright © 2025 All Rights Reserved.</span>
       </div>
     </>
   );
